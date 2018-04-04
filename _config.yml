@@ -7,5 +7,7 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  - title: pza1
+  - title: pza
     url: pza1
+- title: niz
+    url: niz
