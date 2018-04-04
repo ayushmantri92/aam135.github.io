@@ -9,5 +9,5 @@ navigation:
     url: setup
   - title: pza
     url: pza1
-- title: niz
+  - title: niz
     url: niz
